@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    font-style: oblique;
+    line-height: 80px;
+    text-align: center;
+    text-decoration: underline;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+}
+ul {
+    background-color: blanchedalmond;
+}
+
+p {
+    font-weight: 600;
+    height: 3em;
+}
+
+.list {
+    background-color: bisque;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#brown {
+    background-color: brown;
+}
