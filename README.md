@@ -10,21 +10,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [v] 1-3: _Unix & Shell- Part 1_
-- [v] 1-4: _Unix & Shell- Part 2_
+- :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
+- :ballot_box_with_check:: _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [v] 2-1: _O que são e para que serve?_
-- [v] 2-2: _Entendendo os comandos_
-- [v] 2-3: _Internet - Entendendo como ela funciona_
+- :ballot_box_with_check: _O que são e para que serve?_
+- :ballot_box_with_check: _Entendendo os comandos_
+- :ballot_box_with_check: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [v] 3-1: _HTML & CSS - Estruturas de página_
-- [v] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [v] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [v] 3-4: _HTML Semântico_
+- :ballot_box_with_check:_HTML & CSS - Estruturas de página_
+- :ballot_box_with_check:_HTML & CSS - Primeiros passos em CSS_
+- :ballot_box_with_check: _HTML & CSS - Seletores e posicionamento_
+- :ballot_box_with_check: _HTML Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introdução - JavaScript
