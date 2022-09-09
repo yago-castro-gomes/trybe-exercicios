@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu';
+}
+
+.header-img {
+  width: 70px;
+}
+
+.gallery-img {
+  width: 150px;
+}
+
+.social-img {
+  width: 25px;
+  margin-left: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(112, 111, 106);
+  justify-content: space-around ;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  display: flex;
+  margin-top: 14px;
+}
+
+h3 {
+  color: rgb(235, 234, 231);;
+  margin-top: 23px;
+  text-decoration:underline;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+}
+
+#techs {
+  margin-top: 100px;
+  display: flex;
+  flex-flow: row wrap; 
+  align-content: space-around;
+  align-items: center;
+  width: 40%;
+  margin: 20px auto;
+  text-align: center;
+  padding: 15px;
+}
+
+.card {
+  margin: 8px;
+  background-color: #f3f8fc;
+  border-radius: 15px;
+  box-shadow: 1px 1.5px 1px 1px grey;
+  cursor: pointer;
+  width: 153px;
+  height: 190px;
+}
+
+/* #foot {
+  display: flex;
+  flex-direction: row wrap;
+  align-content: space-around;
+  align-items: ;
+  border: 1px solid black;
+  margin: auto 600px;
+} */
+
+hr {
+  display: flex;
+  width: 150px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#foot {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
