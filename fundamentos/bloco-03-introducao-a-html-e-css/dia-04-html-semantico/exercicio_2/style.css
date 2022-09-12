@@ -1,0 +1,35 @@
+h3, h4{
+    font-size: 35px;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    background-image: linear-gradient(to bottom right, rgb(114, 121, 228), rgb(10, 5, 31));
+    color: aliceblue;
+}
+
+a{
+    color: rgb(182, 212, 238);
+}
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+aside {
+    display: block;
+    position: absolute;
+    left: 80%;
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+
+footer {
+    padding-top: 50px;
+    text-align: center;
+}
