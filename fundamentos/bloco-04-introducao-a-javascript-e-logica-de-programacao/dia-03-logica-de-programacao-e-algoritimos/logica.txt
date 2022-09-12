@@ -1,0 +1,7 @@
+Ir até o quarto, se houver escadas, subir escadas
+abrir o armário.
+se a roupa x estiver limpa retirar ela do armário se não pegar a roupa y
+pegar o ferro de passar
+conectar na tomada
+passar o ferro na roupa escolhida
+coloca-la no corpo
