@@ -1,0 +1,115 @@
+@import url('http://fonts.cdnfonts.com/css/serious');
+
+*{  
+    font-family: 'serious1', sans-serif;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: rgb(83, 72, 72);
+    
+}
+
+#title {
+    text-align: center;
+    color: rgb(228, 243, 12);
+}
+
+#paleta-container {
+    display: flex;
+    justify-content: center;
+}
+
+#color-palette {
+    display:inline-flex;
+    border: solid black 1px;
+    background-color:antiquewhite;
+    width: 210px;
+    height: 50px;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 20px;
+    
+}
+
+.color{
+    border: solid 1px black;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    transition: ease 0.2s;
+}
+
+
+
+#black {
+    background-color: black;
+}
+
+#brown {
+    background-color: brown;
+}
+#yellow {
+    background-color: rgb(238, 204, 12);
+}
+#orange {
+    background-color: rgb(238, 114, 12);
+}
+
+#button-random-color {
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(255, 252, 252);
+    color: rgb(82, 78, 76);
+    font-weight: 550;
+    box-shadow: 500px;
+    width: 95px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#pixel-board {
+    display:table;
+    margin: 0 auto;
+}
+
+.pixel {
+    background-color: white;
+    display: table-cell;
+    width: 40px;
+    height: 40px;
+    border: solid black 1px;
+    
+}
+
+#alteraQuadro {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    height: 30px;
+    padding-bottom: 20px;
+}
+
+#board-size{
+    background-color: white;
+}
+
+#generate-board {
+    background-color: white;
+    color: rgb(99, 95, 92);
+}
+
+#clear-board {
+    background-color: white;
+    color: rgb(82, 78, 76);;
+    width: 80px;
+    height: 30px;
+}
+
+#botons {
+    display: block;
+    margin-left: 110vh;
+    position: absolute;
+    bottom: 86%;
+}
