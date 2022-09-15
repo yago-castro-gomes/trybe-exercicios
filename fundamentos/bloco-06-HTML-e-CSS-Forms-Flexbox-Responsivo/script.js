@@ -1,5 +1,6 @@
 let submitButton = document.getElementById('send');
 let inputs = document.querySelectorAll('input')
+document.getElementById('myInputId').DatePickerX.init();
 
 // submitButton.addEventListener('click', (e) =>{
 //     e.preventDefault()
