@@ -1,6 +1,5 @@
 
 # Requisitos Obrigatórios
-:warning: **Leia todos os requisitos atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_  e _classes_ que alguns elementos de seu projeto devem possuir**. Não troque `ids` por `classes` ou vice-versa** :warning:
 
 ## 1 - Adicione à página o título "Paleta de Cores".
 
