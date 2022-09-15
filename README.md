@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 - :ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - :ballot_box_with_check:  4-4: _JavaScript - Objetos e funções_
-- :ballot_box_with_check:  4-5: _(Projeto - Playground Functions]https://github.com/yago-castro-gomes/trybe-exercicios/tree/exercicios/6.5/fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao/projeto-playground-functions)_
+- :ballot_box_with_check:  4-5: _(Projeto - Playground Functions].(https://github.com/yago-castro-gomes/trybe-exercicios/tree/exercicios/6.5/fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao/projeto-playground-functions)._
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -42,7 +42,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :ballot_box_with_check:  5-3: _JavaScript - Eventos_
 - :ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- :ballot_box_with_check:  5-6: _[Projeto - Arte com Pixels]_(https://github.com/yago-castro-gomes/trybe-exercicios/tree/master/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/pixel-art-project)_
+- :ballot_box_with_check:  5-6: _[Projeto - Arte com Pixels](https://github.com/yago-castro-gomes/trybe-exercicios/tree/master/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/pixel-art-project)_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
