@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-2: _JavaScript - Array e loop For_
 - [ ] 4-3: _JavaScript - LÃ³gica de ProgramaÃ§Ã£o e Algoritmos_
 - [ ] 4-4: _JavaScript - Objetos e funÃ§Ãµes_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [ ] 4-5: _[Projeto - Playground Functions](https://github.com/yago-castro-gomes/trybe-exercicios/blob/exercicios/6.5/fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao/projeto-playground-functions/README.md)_
 
 ##### Bloco 5: IntroduÃ§Ã£o - JavaScript - Projetos
 
