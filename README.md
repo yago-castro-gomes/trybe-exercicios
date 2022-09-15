@@ -42,7 +42,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - :ballot_box_with_check:  5-3: _JavaScript - Eventos_
 - :ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- :ballot_box_with_check:  5-6: _[Projeto - Arte com Pixels](https://github.com/yago-castro-gomes/trybe-exercicios/tree/master/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/pixel-art-project)_
+- :ballot_box_with_check:  5-6: _[Projeto - Arte com Pixels]_(https://github.com/yago-castro-gomes/trybe-exercicios/tree/master/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/pixel-art-project)_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
